@@ -1,6 +1,6 @@
 # DATA
 dataset='Tusimple'
-data_root = None
+data_root = '/content/drive/MyDrive/Comvision/Ultra-Fast-Lane-Detection/Image-Test'
 
 # TRAIN
 epoch = 100
@@ -20,7 +20,7 @@ warmup_iters = 100
 # NETWORK
 backbone = '18'
 griding_num = 100
-use_aux = True
+use_aux = False
 
 # LOSS
 sim_loss_w = 1.0

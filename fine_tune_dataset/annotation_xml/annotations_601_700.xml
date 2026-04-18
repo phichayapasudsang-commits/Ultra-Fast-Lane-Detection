@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2185985</id>
+      <name>label buatorng</name>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-04-18 09:14:52.801265+00:00</created>
+      <updated>2026-04-18 10:10:53.880398+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3878128</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/tasks/2185985/dataset/export/api/jobs/3879638</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>phichayapa.sudsang</username>
+        <email>phichayapa.sudsang@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>label</name>
+          <color>#fe283e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-04-18 10:20:06.504047+00:00</dumped>
+  </meta>
+  <image id="0" name="601.jpg" width="1418" height="796">
+    <polyline label="label" source="manual" occluded="0" points="339.23,789.38;615.07,583.15;613.76,583.15" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="881.72,793.32;854.13,761.79;819.98,730.27;791.08,698.74;746.42,643.57;689.94,587.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1412.38,777.55;712.27,571.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="1" name="602.jpg" width="1415" height="791">
+    <polyline label="label" source="manual" occluded="0" points="424.60,789.67;640.54,579.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="946.43,791.00;682.13,572.01" z_order="0">
+    </polyline>
+  </image>
+  <image id="2" name="603.jpg" width="1410" height="788">
+    <polyline label="label" source="manual" occluded="0" points="422.41,788.00;624.09,591.67" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.18,776.39;541.16,595.44" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="946.41,782.05;708.91,593.56" z_order="0">
+    </polyline>
+  </image>
+  <image id="3" name="604.jpg" width="1414" height="794">
+    <polyline label="label" source="manual" occluded="0" points="370.32,794.00;631.25,579.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,729.65;593.26,575.22" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="890.03,794.00;674.93,571.42" z_order="0">
+    </polyline>
+  </image>
+  <image id="4" name="605.jpg" width="1417" height="793">
+    <polyline label="label" source="manual" occluded="0" points="333.98,784.11;652.65,569.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="866.06,793.00;686.80,581.14" z_order="0">
+    </polyline>
+  </image>
+  <image id="5" name="606.jpg" width="1417" height="796">
+    <polyline label="label" source="manual" occluded="0" points="241.23,789.98;663.93,580.54" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="705.82,786.17;690.59,578.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1227.54,795.70;717.25,574.82" z_order="0">
+    </polyline>
+  </image>
+  <image id="6" name="607.jpg" width="1408" height="787">
+    <polyline label="label" source="manual" occluded="0" points="393.06,787.00;643.98,571.13" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="909.42,781.97;666.57,565.48" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1387.52,787.00;692.93,565.48" z_order="0">
+    </polyline>
+  </image>
+  <image id="7" name="608.jpg" width="1410" height="789">
+    <polyline label="label" source="manual" occluded="0" points="339.79,789.00;620.15,578.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,746.76;542.77,585.80" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="861.17,789.00;665.45,566.93" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1397.73,785.86;701.31,570.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1410.00,679.69;740.94,566.93" z_order="0">
+    </polyline>
+  </image>
+  <image id="8" name="609.jpg" width="1414" height="788">
+    <polyline label="label" source="manual" occluded="0" points="0.00,754.03;607.32,567.17" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="399.98,785.82;628.05,572.82" z_order="0">
+    </polyline>
+  </image>
+  <image id="9" name="610.jpg" width="1410" height="788">
+    <polyline label="label" source="manual" occluded="0" points="0.00,768.14;688.03,585.18" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="258.04,788.00;712.74,587.78" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="649.54,788.00;790.76,583.88;794.92,572.96;794.27,567.23;792.84,562.68;790.63,560.21" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1221.92,788.00;1174.14,741.81;1072.70,688.68;958.38,627.49;900.41,593.68;871.43,571.14;847.28,556.64;840.84,556.64;839.23,556.64" z_order="0">
+    </polyline>
+  </image>
+  <image id="10" name="611.jpg" width="1412" height="793">
+    <polyline label="label" source="manual" occluded="0" points="0.00,706.30;599.67,583.79" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="39.02,791.20;570.50,612.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="478.14,787.96;679.07,599.99;689.60,592.05;704.83,579.41;718.61,577.63;731.57,575.69;741.29,574.07;751.17,573.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="11" name="612.jpg" width="1408" height="794">
+    <polyline label="label" source="manual" occluded="0" points="79.55,792.28;588.64,607.80" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="422.82,794.00;618.58,603.01" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="845.75,794.00;665.30,598.22" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1358.86,780.30;712.02,598.22" z_order="0">
+    </polyline>
+  </image>
+  <image id="12" name="613.jpg" width="1409" height="781">
+    <polyline label="label" source="manual" occluded="0" points="316.53,781.00;420.23,651.13;441.78,607.00;432.54,585.45;418.18,573.14;394.58,570.06;377.13,566.98;358.66,563.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="880.26,781.00;821.48,744.51;756.83,706.54;686.02,664.47;618.29,619.31;571.08,598.79;529.01,582.37;503.35,570.06;484.88,563.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1276.09,711.67;657.28,580.32;576.21,569.03;526.96,563.90;499.25,561.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="13" name="614.jpg" width="1416" height="790">
+    <polyline label="label" source="manual" occluded="0" points="498.81,784.68;791.53,590.57;836.17,572.92;866.27,560.46" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1065.57,789.87;909.87,615.48;899.49,589.53;907.79,567.73;927.51,558.39;953.46,554.24;973.19,551.12" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1291.86,685.03;1098.79,622.75;1004.33,588.49;985.64,571.88;982.53,560.46;990.83,552.16;1001.21,543.86" z_order="0">
+    </polyline>
+  </image>
+  <image id="14" name="615.jpg" width="1413" height="791">
+    <polyline label="label" source="manual" occluded="0" points="116.12,762.39;532.90,565.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="368.69,784.22;587.99,555.46" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="899.15,791.00;599.42,557.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1353.64,786.88;647.02,568.71" z_order="0">
+    </polyline>
+  </image>
+  <image id="15" name="616.jpg" width="1418" height="779">
+    <polyline label="label" source="manual" occluded="0" points="75.55,776.58;588.66,563.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="447.37,779.00;625.54,563.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="955.78,779.00;672.04,568.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1396.80,754.14;716.94,564.93" z_order="0">
+    </polyline>
+  </image>
+  <image id="16" name="617.jpg" width="1410" height="790">
+    <polyline label="label" source="manual" occluded="0" points="-0.00,760.05;503.39,598.19" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="291.99,788.44;630.22,564.04" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="848.12,786.82;654.61,555.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="17" name="618.jpg" width="1405" height="779">
+    <polyline label="label" source="manual" occluded="0" points="0.00,768.69;480.43,597.00;533.34,576.15;567.01,558.52;567.01,545.69" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="461.19,776.58;605.50,584.17;607.10,564.93;607.26,551.30;605.82,546.33;605.18,544.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1019.99,775.21;640.94,542.78" z_order="0">
+    </polyline>
+  </image>
+  <image id="18" name="619.jpg" width="1406" height="781">
+    <polyline label="label" source="manual" occluded="0" points="350.12,781.00;595.46,574.49;596.72,567.14;596.54,561.94;595.82,559.25" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="855.35,781.00;612.97,557.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1391.54,779.98;635.56,557.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1406.00,711.96;692.91,562.75" z_order="0">
+    </polyline>
+  </image>
+  <image id="19" name="620.jpg" width="875" height="491">
+  </image>
+  <image id="20" name="621.jpg" width="1408" height="777">
+    <polyline label="label" source="manual" occluded="0" points="342.25,775.01;624.30,578.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="822.90,777.00;654.35,574.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1388.92,777.00;672.70,573.07" z_order="0">
+    </polyline>
+  </image>
+  <image id="21" name="622.jpg" width="1414" height="766">
+    <polyline label="label" source="manual" occluded="0" points="331.12,766.00;607.05,573.98" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="811.07,759.90;661.35,565.75" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1350.75,764.84;659.70,555.88" z_order="0">
+    </polyline>
+  </image>
+  <image id="22" name="623.jpg" width="1415" height="779">
+    <polyline label="label" source="manual" occluded="0" points="-0.00,737.12;375.86,611.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="318.96,778.61;554.90,567.78" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="802.54,778.61;569.96,559.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1375.17,779.00;598.40,564.43" z_order="0">
+    </polyline>
+  </image>
+  <image id="23" name="624.jpg" width="1404" height="778">
+    <polyline label="label" source="manual" occluded="0" points="1024.35,778.00;724.27,551.31" z_order="0">
+    </polyline>
+  </image>
+  <image id="24" name="625.jpg" width="1389" height="787">
+    <polyline label="label" source="manual" occluded="0" points="230.99,783.26;443.99,604.08;467.66,592.24;487.94,585.48;514.99,578.72;542.04,577.03;557.25,573.65" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="653.61,786.64;547.11,659.86;536.96,626.05;542.04,624.36;548.80,600.69;555.56,597.31" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1067.31,787.00;670.51,626.05;651.92,602.38" z_order="0">
+    </polyline>
+  </image>
+  <image id="25" name="626.jpg" width="1404" height="787">
+    <polyline label="label" source="manual" occluded="0" points="194.53,787.00;332.25,626.05;332.25,593.93;332.25,593.93;305.20,577.03;274.77,553.36;225.75,546.60;178.42,539.84;139.54,531.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="770.08,781.57;744.72,737.62;714.29,700.43;699.08,691.98;639.91,651.41;590.89,639.57;563.84,620.98;523.27,597.31;469.18,578.72;469.18,578.72;352.53,558.43;293.37,538.15" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1393.86,778.19;1253.55,735.93;1084.50,700.43;947.58,670.00;666.96,600.69;513.13,563.50;408.32,546.60;355.92,543.22;332.25,536.46" z_order="0">
+    </polyline>
+  </image>
+  <image id="26" name="627.jpg" width="1412" height="790">
+    <polyline label="label" source="manual" occluded="0" points="0.00,752.29;601.24,578.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="350.10,787.05;625.00,581.73" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="879.53,780.26;653.85,566.45" z_order="0">
+    </polyline>
+  </image>
+  <image id="27" name="628.jpg" width="1414" height="768">
+    <polyline label="label" source="manual" occluded="0" points="67.06,768.00;643.08,573.80" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="497.91,763.51;672.78,565.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="959.82,763.51;705.77,558.95" z_order="0">
+    </polyline>
+  </image>
+  <image id="28" name="629.jpg" width="1414" height="780">
+    <polyline label="label" source="manual" occluded="0" points="0.53,736.88;566.83,572.69" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="349.02,778.77;623.79,559.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="824.84,777.09;650.60,559.29" z_order="0">
+    </polyline>
+  </image>
+  <image id="29" name="630.jpg" width="1410" height="789">
+    <polyline label="label" source="manual" occluded="0" points="850.94,789.00;724.08,636.12;695.27,605.62;693.58,597.14;683.41,564.94;702.05,544.61" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="108.88,785.26;352.93,697.13;417.33,656.46;496.98,629.34;559.69,593.75;608.84,568.33;661.37,551.39;713.91,553.08" z_order="0">
+    </polyline>
+  </image>
+  <image id="30" name="631.jpg" width="1406" height="767">
+    <polyline label="label" source="manual" occluded="0" points="423.33,765.02;568.31,633.22;594.67,605.21;621.03,583.80;647.39,567.32;657.27,565.67" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,746.93;105.36,702.42;176.20,681.00;261.87,648.05;378.85,628.28;454.63,608.51;594.67,567.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="886.28,765.02;831.91,725.48;795.66,685.94;754.48,628.28;726.47,598.62;711.64,573.91;733.06,557.44" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1296.50,763.37;767.66,583.80;746.24,568.97;746.24,567.32" z_order="0">
+    </polyline>
+  </image>
+  <image id="31" name="632.jpg" width="1379" height="773">
+    <polyline label="label" source="manual" occluded="0" points="313.92,772.68;596.18,570.12" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="647.66,568.46;850.61,773.00" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="699.13,561.81;1358.30,766.04" z_order="0">
+    </polyline>
+  </image>
+  <image id="32" name="633.jpg" width="1406" height="779">
+    <polyline label="label" source="manual" occluded="0" points="95.50,779.00;474.24,621.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="803.64,779.00;680.06,616.31" z_order="0">
+    </polyline>
+  </image>
+  <image id="33" name="634.jpg" width="1390" height="792">
+    <polyline label="label" source="manual" occluded="0" points="317.76,784.06;586.55,613.94" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,781.60;360.29,647.97" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="831.53,785.76;658.00,573.11" z_order="0">
+    </polyline>
+  </image>
+  <image id="34" name="635.jpg" width="1403" height="789">
+    <polyline label="label" source="manual" occluded="0" points="484.27,786.96;714.76,644.60;726.28,632.90;736.62,622.40;736.62,619.01;737.47,615.11" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="985.90,785.38;762.32,626.97" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1356.86,754.30;830.50,635.99;802.42,623.96;785.38,620.95;779.36,608.92" z_order="0">
+    </polyline>
+  </image>
+  <image id="35" name="636.jpg" width="1416" height="793">
+    <polyline label="label" source="manual" occluded="0" points="251.14,768.73;702.39,602.20" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="764.17,736.50;756.11,586.08" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1411.49,763.36;1411.49,763.36;839.37,604.89" z_order="0">
+    </polyline>
+  </image>
+  <image id="36" name="637.jpg" width="1411" height="785">
+    <polyline label="label" source="manual" occluded="0" points="443.39,734.54;725.23,588.30" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="932.63,729.22;759.80,585.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1411.00,734.48;810.32,585.64" z_order="0">
+    </polyline>
+  </image>
+  <image id="37" name="638.jpg" width="1412" height="786">
+    <polyline label="label" source="manual" occluded="0" points="88.05,747.50;750.96,585.10" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="500.71,750.16;836.16,582.44" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1001.22,752.83;872.90,594.95;884.08,575.52;903.78,567.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1412.00,689.82;919.31,585.77;903.83,577.51;905.90,565.13" z_order="0">
+    </polyline>
+  </image>
+  <image id="38" name="639.jpg" width="1406" height="794">
+    <polyline label="label" source="manual" occluded="0" points="488.96,742.81;721.44,606.24" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="982.07,748.02;760.01,608.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1090.49,666.71;819.44,608.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="39" name="640.jpg" width="1413" height="774">
+    <polyline label="label" source="manual" occluded="0" points="0.00,727.81;598.76,596.57" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="144.43,730.68;626.13,607.52" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="464.65,727.95;735.61,588.36" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="968.25,744.37;773.93,585.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1291.21,697.84;823.19,580.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="40" name="641.jpg" width="1416" height="783">
+    <polyline label="label" source="manual" occluded="0" points="5.39,712.90;640.50,596.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="111.73,737.67;679.83,600.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="497.75,734.75;729.36,599.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="997.39,750.78;781.80,590.54" z_order="0">
+    </polyline>
+  </image>
+  <image id="41" name="642.jpg" width="1405" height="787">
+    <polyline label="label" source="manual" occluded="0" points="10.19,679.88;518.25,612.54" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="7.27,747.23;563.63,622.78" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="411.36,741.38;701.26,605.21" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="953.09,748.70;761.29,602.29" z_order="0">
+    </polyline>
+  </image>
+  <image id="42" name="643.jpg" width="1409" height="792">
+    <polyline label="label" source="manual" occluded="0" points="1.89,729.18;507.28,628.98;547.06,617.19;570.63,611.30;573.58,595.09;555.90,587.73" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="63.78,767.48;582.42,623.09;598.63,612.77;603.05,593.62" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="480.76,743.91;667.88,623.09;667.88,599.51;654.62,593.62;642.83,592.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="43" name="644.jpg" width="1408" height="790">
+    <polyline label="label" source="manual" occluded="0" points="0.00,650.61;265.59,602.45;344.96,584.81;397.87,580.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="2.52,686.22;303.81,620.09;389.05,603.92;425.79,596.57;439.02,587.75" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="45.14,739.13;481.64,608.33;511.04,598.04;521.32,589.22;527.20,574.53;531.61,556.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="524.26,709.74;608.04,609.80;608.04,595.10;605.10,590.69;599.22,581.88;591.87,574.53;581.58,564.24" z_order="0">
+    </polyline>
+  </image>
+  <image id="44" name="645.jpg" width="1400" height="765">
+    <polyline label="label" source="manual" occluded="0" points="20.73,710.70;487.54,626.73;520.27,612.50" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="414.96,736.32;712.41,591.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="45" name="646.jpg" width="1407" height="791">
+    <polyline label="label" source="manual" occluded="0" points="37.10,755.52;513.89,652.51;683.12,611.30;736.09,599.53;750.81,593.65" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="541.85,724.62;769.94,601.00" z_order="0">
+    </polyline>
+  </image>
+  <image id="46" name="647.jpg" width="1406" height="789">
+    <polyline label="label" source="manual" occluded="0" points="549.84,741.83;740.66,615.60" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1045.97,762.38;786.16,615.60" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1406.00,742.73;874.23,622.94" z_order="0">
+    </polyline>
+  </image>
+  <image id="47" name="648.jpg" width="1411" height="785">
+    <polyline label="label" source="manual" occluded="0" points="555.29,713.31;743.69,576.03" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1035.77,720.61;783.12,571.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="48" name="649.jpg" width="1410" height="788">
+    <polyline label="label" source="manual" occluded="0" points="28.64,705.05;656.09,576.04" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="428.86,710.91;675.14,583.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="972.74,732.90;755.77,586.30;753.57,578.39;758.12,575.46;763.10,572.38;767.06,570.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="49" name="650.jpg" width="1389" height="771">
+    <polyline label="label" source="manual" occluded="0" points="246.53,699.60;532.70,614.28;610.91,592.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="605.58,694.27;891.74,557.41;905.96,532.52" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1169.02,694.27;1055.27,608.95;1030.38,576.96;1019.72,550.30;1032.16,528.97;1051.71,512.97;1081.93,493.42;1081.93,493.42" z_order="0">
+    </polyline>
+  </image>
+  <image id="50" name="651.jpg" width="1406" height="794">
+    <polyline label="label" source="manual" occluded="0" points="55.88,765.19;612.34,637.06" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="460.42,759.70;685.56,626.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="894.24,785.32;751.46,648.04" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1390.29,787.15;791.73,629.73" z_order="0">
+    </polyline>
+  </image>
+  <image id="51" name="652.jpg" width="1415" height="782">
+    <polyline label="label" source="manual" occluded="0" points="148.57,759.00;700.23,594.94" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="554.20,730.15;716.45,609.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="903.94,735.56;763.33,598.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1415.00,754.24;815.61,602.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="52" name="653.jpg" width="1404" height="786">
+    <polyline label="label" source="manual" occluded="0" points="316.83,714.03;670.18,605.31" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="534.28,737.58;720.91,599.87" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="889.43,741.21;757.15,598.06" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1371.67,786.00;758.97,587.19" z_order="0">
+    </polyline>
+  </image>
+  <image id="53" name="654.jpg" width="1410" height="791">
+    <polyline label="label" source="manual" occluded="0" points="25.54,725.05;641.90,595.58" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,666.10;271.72,621.11" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="558.02,708.64;700.25,608.35" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="981.08,723.23;745.84,570.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1307.49,683.11;851.61,593.76;791.43,584.64" z_order="0">
+    </polyline>
+  </image>
+  <image id="54" name="655.jpg" width="1409" height="783">
+    <polyline label="label" source="manual" occluded="0" points="448.08,733.83;632.20,616.49;637.43,608.73;636.71,603.32;630.93,598.62;625.70,595.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="917.82,755.54;694.37,601.86;668.09,595.39;655.35,594.38;643.52,593.47;637.55,593.47" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1255.51,727.11;1076.10,682.26;987.61,661.65;906.39,638.62;876.09,630.13" z_order="0">
+    </polyline>
+  </image>
+  <image id="55" name="656.jpg" width="1415" height="785">
+    <polyline label="label" source="manual" occluded="0" points="467.52,754.46;723.95,614.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="911.11,756.89;762.84,617.13" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1256.25,737.44;829.68,613.48" z_order="0">
+    </polyline>
+  </image>
+  <image id="56" name="657.jpg" width="1404" height="781">
+    <polyline label="label" source="manual" occluded="0" points="0.75,681.72;481.98,606.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="481.98,727.67;720.17,582.57" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="947.48,727.67;763.70,577.74" z_order="0">
+    </polyline>
+  </image>
+  <image id="57" name="658.jpg" width="1406" height="783">
+    <polyline label="label" source="manual" occluded="0" points="0.00,669.98;521.28,602.25" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="17.00,723.47;550.37,613.16" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="437.64,723.47;720.08,592.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="973.43,730.75;770.99,584.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1247.38,687.11;815.84,585.28" z_order="0">
+    </polyline>
+  </image>
+  <image id="58" name="659.jpg" width="1409" height="782">
+    <polyline label="label" source="manual" occluded="0" points="650.77,682.01;941.33,562.15;977.65,556.10;1015.18,550.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1237.94,732.86;1154.40,685.64;1109.61,650.53;1087.82,622.69;1058.76,592.42;1049.08,559.73;1062.40,541.57;1080.55,536.73;1102.35,528.26" z_order="0">
+    </polyline>
+  </image>
+  <image id="59" name="660.jpg" width="1411" height="795">
+    <polyline label="label" source="manual" occluded="0" points="103.15,737.00;387.46,673.00;605.31,626.23;626.23,612.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="433.00,744.39;615.16,674.24;621.31,668.08" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="685.31,633.62;729.62,609.00;741.93,599.16" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="957.31,748.08;792.39,604.08" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1269.93,708.70;835.47,600.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1266.24,650.85;850.24,596.70" z_order="0">
+    </polyline>
+  </image>
+  <image id="60" name="661.jpg" width="1416" height="795">
+    <polyline label="label" source="manual" occluded="0" points="42.23,754.24;639.16,620.08" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="530.85,741.93;693.31,633.62" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1009.62,762.85;780.70,604.08" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1218.85,696.39;842.24,605.31" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1249.62,643.47;860.70,599.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="61" name="662.jpg" width="1399" height="790">
+    <polyline label="label" source="manual" occluded="0" points="102.17,783.16;656.21,649.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,715.82;608.51,641.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="542.47,774.60;684.34,673.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="998.66,788.05;917.94,723.23" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1261.61,742.80;894.70,659.63" z_order="0">
+    </polyline>
+  </image>
+  <image id="62" name="663.jpg" width="1409" height="782">
+    <polyline label="label" source="manual" occluded="0" points="-0.00,720.27;398.96,656.58" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="178.62,754.65;423.17,686.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="567.24,742.54;727.04,645.69" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1023.65,749.80;863.85,638.43" z_order="0">
+    </polyline>
+  </image>
+  <image id="63" name="664.jpg" width="1405" height="798">
+    <polyline label="label" source="manual" occluded="0" points="401.74,592.20;640.12,453.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="928.17,582.27;704.68,433.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1397.48,569.85;779.18,450.66" z_order="0">
+    </polyline>
+  </image>
+  <image id="64" name="665.jpg" width="1408" height="779">
+    <polyline label="label" source="manual" occluded="0" points="392.14,574.43;615.15,450.80" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="828.46,567.15;731.50,443.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="65" name="666.jpg" width="1390" height="771">
+    <polyline label="label" source="manual" occluded="0" points="518.25,539.85;645.41,415.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="945.30,551.84;722.18,412.69" z_order="0">
+    </polyline>
+  </image>
+  <image id="66" name="667.jpg" width="1406" height="794">
+    <polyline label="label" source="manual" occluded="0" points="0.00,612.37;661.82,421.18" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,544.35;605.00,431.06" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="481.46,579.30;671.70,418.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="916.30,574.36;701.35,416.24" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1405.50,574.36;721.12,423.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="67" name="668.jpg" width="1400" height="708">
+    <polyline label="label" source="manual" occluded="0" points="0.00,528.52;395.02,459.34" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,611.42;410.76,481.82" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="415.26,562.77;646.88,430.10" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="894.23,547.03;700.84,418.86" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1400.00,566.24;754.81,423.36" z_order="0">
+    </polyline>
+  </image>
+  <image id="68" name="669.jpg" width="1432" height="775">
+    <polyline label="label" source="manual" occluded="0" points="7.90,537.72;589.09,443.67" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,510.41;519.15,448.49" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,622.63;557.74,460.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="367.22,610.07;618.03,460.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="839.89,593.19;680.73,438.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="69" name="670.jpg" width="1398" height="779">
+    <polyline label="label" source="manual" occluded="0" points="0.00,586.33;585.82,424.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="316.75,584.12;673.08,409.59" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="811.25,574.43;687.63,399.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1395.44,591.39;765.20,424.14" z_order="0">
+    </polyline>
+  </image>
+  <image id="70" name="671.jpg" width="1410" height="791">
+    <polyline label="label" source="manual" occluded="0" points="1.84,499.53;481.80,433.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,575.27;577.80,440.45" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="452.27,563.52;646.71,428.15" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="875.62,578.29;683.63,428.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="71" name="672.jpg" width="1391" height="764">
+    <polyline label="label" source="manual" occluded="0" points="450.23,576.46;664.19,436.20" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="909.05,557.45;695.09,424.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1389.27,597.86;723.62,426.69" z_order="0">
+    </polyline>
+  </image>
+  <image id="72" name="673.jpg" width="1396" height="799">
+    <polyline label="label" source="manual" occluded="0" points="679.01,537.04;669.06,432.62" z_order="0">
+    </polyline>
+  </image>
+  <image id="73" name="674.jpg" width="1412" height="751">
+    <polyline label="label" source="manual" occluded="0" points="0.00,555.68;547.77,411.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,497.10;475.32,413.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="414.56,530.47;650.59,401.94" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="828.19,530.47;697.33,392.60" z_order="0">
+    </polyline>
+  </image>
+  <image id="74" name="675.jpg" width="1399" height="785">
+    <polyline label="label" source="manual" occluded="0" points="0.00,517.11;476.79,439.66" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="27.34,574.01;469.46,456.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="276.49,576.45;628.24,432.33" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="796.78,554.47;681.98,420.12" z_order="0">
+    </polyline>
+  </image>
+  <image id="75" name="676.jpg" width="1396" height="802">
+    <polyline label="label" source="manual" occluded="0" points="0.00,508.33;384.49,447.88" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,477.57;404.46,432.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,572.04;414.44,462.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="456.86,545.21;649.02,422.92" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="861.14,562.67;726.38,447.88" z_order="0">
+    </polyline>
+  </image>
+  <image id="76" name="677.jpg" width="1391" height="773">
+    <polyline label="label" source="manual" occluded="0" points="2.36,509.88;464.18,444.94" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="4.76,589.26;466.59,454.56" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="536.34,545.96;651.80,418.48" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="894.74,562.80;683.07,408.86" z_order="0">
+    </polyline>
+  </image>
+  <image id="77" name="678.jpg" width="1416" height="779">
+    <polyline label="label" source="manual" occluded="0" points="0.00,519.62;509.95,433.83" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="17.88,579.27;522.07,445.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="425.25,550.20;656.64,417.80" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="866.17,565.63;687.49,410.09" z_order="0">
+    </polyline>
+  </image>
+  <image id="78" name="679.jpg" width="1402" height="761">
+    <polyline label="label" source="manual" occluded="0" points="5.27,507.33;581.67,416.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.25,561.33;571.62,426.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="379.49,553.79;655.76,413.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="826.55,552.54;687.15,419.42" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1380.34,588.95;726.08,416.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="79" name="680.jpg" width="1406" height="781">
+    <polyline label="label" source="manual" occluded="0" points="0.00,625.89;647.61,422.72" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="561.26,542.58;683.70,412.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="993.01,561.91;697.88,413.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1404.13,545.16;713.34,412.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,548.37;632.15,420.14" z_order="0">
+    </polyline>
+  </image>
+  <image id="80" name="681.jpg" width="1409" height="775">
+    <polyline label="label" source="manual" occluded="0" points="824.08,570.35;687.24,427.12" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="400.77,571.63;653.99,424.56" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="4.32,581.86;595.16,432.23" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,522.47;587.49,424.56" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,499.26;464.71,439.90" z_order="0">
+    </polyline>
+  </image>
+  <image id="81" name="682.jpg" width="1410" height="792">
+    <polyline label="label" source="manual" occluded="0" points="795.16,553.51;686.69,408.44" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="407.01,549.59;655.32,422.82" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="3.16,569.20;562.53,434.58" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.55,515.61;512.87,430.66" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,486.61;519.40,424.13" z_order="0">
+    </polyline>
+  </image>
+  <image id="82" name="683.jpg" width="1411" height="778">
+    <polyline label="label" source="manual" occluded="0" points="387.81,548.81;649.71,449.95;666.40,435.83;666.40,425.56;666.66,418.11;652.03,412.33;638.80,408.10" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="858.94,574.77;777.24,453.49;750.43,430.51;746.86,427.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1279.05,589.61;839.83,442.00;806.52,436.60;786.72,430.30;775.02,424.90;754.32,417.70;744.42,418.60" z_order="0">
+    </polyline>
+  </image>
+  <image id="83" name="684.jpg" width="1399" height="774">
+    <polyline label="label" source="manual" occluded="0" points="264.49,516.73;636.09,419.13" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="392.53,571.35;633.40,440.62" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="810.69,554.33;695.19,417.34" z_order="0">
+    </polyline>
+  </image>
+  <image id="84" name="685.jpg" width="1407" height="778">
+    <polyline label="label" source="manual" occluded="0" points="416.53,563.51;647.84,427.60" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="271.62,523.91;550.64,442.00" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="838.66,564.41;712.65,441.10" z_order="0">
+    </polyline>
+  </image>
+  <image id="85" name="686.jpg" width="1413" height="745">
+    <polyline label="label" source="manual" occluded="0" points="423.10,575.40;664.43,433.19" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="863.52,559.02;707.52,422.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="290.38,509.89;594.62,434.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="86" name="687.jpg" width="1410" height="738">
+    <polyline label="label" source="manual" occluded="0" points="515.18,578.95;685.93,426.98" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="913.04,562.73;732.89,445.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1249.42,535.41;759.36,429.54" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="288.07,534.56;671.42,423.57" z_order="0">
+    </polyline>
+  </image>
+  <image id="87" name="688.jpg" width="1413" height="756">
+    <polyline label="label" source="manual" occluded="0" points="414.57,569.46;653.33,417.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="816.88,547.59;711.06,419.03" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1242.81,603.57;759.16,408.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="280.75,502.99;653.33,405.91" z_order="0">
+    </polyline>
+  </image>
+  <image id="88" name="689.jpg" width="1427" height="744">
+    <polyline label="label" source="manual" occluded="0" points="545.87,509.63;659.48,427.00" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="427.95,470.04;634.52,423.56" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="841.96,545.78;702.52,409.79" z_order="0">
+    </polyline>
+  </image>
+  <image id="89" name="690.jpg" width="1387" height="740">
+    <polyline label="label" source="manual" occluded="0" points="436.84,560.80;676.54,404.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="278.46,507.72;625.18,413.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="282.74,474.34;624.32,404.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="848.62,534.26;703.08,409.27" z_order="0">
+    </polyline>
+  </image>
+  <image id="90" name="691.jpg" width="1395" height="618">
+    <polyline label="label" source="manual" occluded="0" points="505.19,467.21;635.98,312.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="293.68,405.56;592.74,319.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="878.48,455.54;668.55,317.26" z_order="0">
+    </polyline>
+  </image>
+  <image id="91" name="692.jpg" width="1412" height="794">
+    <polyline label="label" source="manual" occluded="0" points="587.26,639.44;683.71,577.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="275.87,644.03;440.30,606.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="885.80,644.95;782.00,594.43" z_order="0">
+    </polyline>
+  </image>
+  <image id="92" name="693.jpg" width="1406" height="791">
+    <polyline label="label" source="manual" occluded="0" points="563.66,643.82;668.89,566.04" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="799.75,625.52;719.22,553.22" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1065.13,641.07;961.72,616.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1247.23,641.07;1033.10,599.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1278.34,622.77;1028.52,585.25" z_order="0">
+    </polyline>
+  </image>
+  <image id="93" name="694.jpg" width="1389" height="768">
+    <polyline label="label" source="manual" occluded="0" points="532.06,622.87;566.71,585.55" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="840.37,621.98;781.73,558.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1058.04,601.54;939.88,562.45" z_order="0">
+    </polyline>
+  </image>
+  <image id="94" name="695.jpg" width="1398" height="786">
+    <polyline label="label" source="manual" occluded="0" points="324.28,768.13;547.77,632.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="999.92,786.00;815.13,630.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1389.52,722.18;1086.66,628.19" z_order="0">
+    </polyline>
+  </image>
+  <image id="95" name="696.jpg" width="1413" height="804">
+    <polyline label="label" source="manual" occluded="0" points="196.12,783.67;533.69,610.61;576.42,593.51;580.70,570.01;570.01,542.24" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="85.02,674.70;356.36,617.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="918.27,781.53;702.48,597.79" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1413.00,727.64;826.40,595.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="96" name="697.jpg" width="1405" height="785">
+    <polyline label="label" source="manual" occluded="0" points="350.03,755.76;627.47,536.73" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="10.01,689.01;487.71,563.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="3.75,626.43;245.73,580.54" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,607.43;237.47,573.88" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1044.49,747.46;728.42,545.38" z_order="0">
+    </polyline>
+  </image>
+  <image id="97" name="698.jpg" width="1414" height="780">
+    <polyline label="label" source="manual" occluded="0" points="382.05,757.50;656.21,561.86" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="958.68,757.50;723.14,567.01" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.00,707.99;79.57,676.42" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="428.39,612.06;558.39,564.44" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="2.35,633.94;104.03,605.62" z_order="0">
+    </polyline>
+  </image>
+  <image id="98" name="699.jpg" width="1401" height="783">
+    <polyline label="label" source="manual" occluded="0" points="321.30,775.85;610.73,585.92" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1025.48,771.98;728.31,570.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1401.00,706.32;947.96,596.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1397.60,658.28;991.89,589.80" z_order="0">
+    </polyline>
+  </image>
+  <image id="99" name="700.jpg" width="1413" height="788">
+    <polyline label="label" source="manual" occluded="0" points="276.74,771.13;609.62,581.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1.07,693.11;587.52,563.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="206.52,602.08;566.71,557.87" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1060.84,780.23;744.86,589.08" z_order="0">
+    </polyline>
+  </image>
+</annotations>

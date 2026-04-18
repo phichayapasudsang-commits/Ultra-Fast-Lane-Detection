@@ -1,7 +1,7 @@
 import numbers
 import random
 import numpy as np
-from PIL import Image, ImageOps, ImageFilter
+from PIL import Image, ImageOps, ImageFilter, ImageEnhance
 #from config import cfg
 import torch
 import pdb
@@ -165,3 +165,36 @@ class RandomUDoffsetLABEL(object):
             label[0:h-offset,:] = label[offset:,:]
             label[h-offset:,:] = 0
         return Image.fromarray(img),Image.fromarray(label)
+
+
+class RandomColorJitter(object):
+    """
+    สุ่มปรับความสว่าง (Brightness), คอนทราสต์ (Contrast) และความอิ่มตัวของสี (Color/Saturation)
+    โดยรับค่าเป็น factor (เช่น 0.3 หมายถึงแกว่งในช่วง 0.7 ถึง 1.3)
+    """
+    def __init__(self, brightness=0.3, contrast=0.3, color=0.3):
+        self.brightness = brightness
+        self.contrast = contrast
+        self.color = color
+
+    def __call__(self, img, label):
+        # 1. สุ่มความสว่าง
+        if self.brightness > 0:
+            enhancer = ImageEnhance.Brightness(img)
+            factor = 1.0 + random.uniform(-self.brightness, self.brightness)
+            img = enhancer.enhance(factor)
+            
+        # 2. สุ่มคอนทราสต์ (ความเปรียบต่าง)
+        if self.contrast > 0:
+            enhancer = ImageEnhance.Contrast(img)
+            factor = 1.0 + random.uniform(-self.contrast, self.contrast)
+            img = enhancer.enhance(factor)
+            
+        # 3. สุ่มความสดของสี (ช่วยจำลองกล้องหน้ารถที่สีซีดหรือสดเกินไป)
+        if self.color > 0:
+            enhancer = ImageEnhance.Color(img)
+            factor = 1.0 + random.uniform(-self.color, self.color)
+            img = enhancer.enhance(factor)
+
+        # 🔥 คืนค่ารูปที่ปรับสีแล้วกลับไป แต่!! ห้ามแตะต้อง label เด็ดขาด
+        return img, label

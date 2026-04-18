@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>2186076</id>
+      <name>thai_lane_v2</name>
+      <size>100</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-04-18 11:02:29.170132+00:00</created>
+      <updated>2026-04-18 12:06:52.243334+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>99</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3878244</id>
+          <start>0</start>
+          <stop>99</stop>
+          <url>https://app.cvat.ai/api/tasks/2186076/dataset/export/api/jobs/3879754</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>drago</username>
+        <email>phidiphokswy503@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>label</name>
+          <color>#fe283e</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2026-04-18 12:08:18.285984+00:00</dumped>
+  </meta>
+  <image id="0" name="1000.jpg" width="1561" height="690">
+    <polyline label="label" source="manual" occluded="0" points="589.19,639.48;617.50,609.82;645.81,581.51;670.08,557.25;686.25,539.72;698.38,523.55;709.17,506.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1098.74,616.56;1067.74,604.43;1017.86,588.25;946.42,568.03;884.41,539.72" z_order="0">
+    </polyline>
+  </image>
+  <image id="1" name="901.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="70.63,543.58;99.05,521.47;133.79,489.89;178.00,460.42;220.11,428.84;267.47,400.42;308.53,364.63;355.89,332.00;381.16,313.05;394.84,288.84" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="438.00,530.95;436.95,503.58;436.95,470.95;435.89,439.37;432.74,399.37;432.74,376.21;432.74,343.58;430.63,306.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="696.95,529.89;664.32,501.47;632.74,467.79;589.58,422.53;555.89,386.74;546.42,375.16;536.95,362.53;524.32,350.95;510.63,340.42;493.79,326.74;472.74,309.89;456.95,290.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="895.89,402.53;847.47,392.00;800.11,378.32;768.53,368.84;729.58,358.32;696.95,346.74;648.53,332.00;542.21,302.53;512.74,294.11;492.74,286.74" z_order="0">
+    </polyline>
+  </image>
+  <image id="2" name="902.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="47.47,553.05;90.63,516.21;118.00,490.95;163.26,457.26;196.95,426.74;244.32,386.74;262.21,370.95;278.00,352.00;295.89,339.37;312.74,324.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="382.21,549.89;384.32,512.00;384.32,465.68;384.32,425.68;384.32,398.32;382.21,373.05;382.21,348.84;383.26,332.00;383.26,318.32;383.26,313.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="726.42,554.11;593.79,453.05;510.63,380.42;476.95,348.84;459.05,333.05;448.53,319.37;441.16,313.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="896.95,501.47;680.11,389.89" z_order="0">
+    </polyline>
+  </image>
+  <image id="3" name="903.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="374.84,545.68;364.32,476.21;354.84,401.47;347.47,365.68;342.21,319.37;341.16,288.84;335.89,265.68" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="736.95,548.84;698.00,518.32;661.16,486.74;624.32,455.16;581.16,422.53;536.95,385.68;503.26,353.05;474.84,328.84;446.42,305.68" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="592.74,301.47;536.95,281.47;491.68,266.74;459.05,255.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="4" name="904.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="92.74,550.95;126.42,514.11;161.16,479.37;186.42,453.05;209.58,435.16;296.95,343.58;320.11,319.37;332.74,304.63;350.63,284.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="609.58,545.68;585.37,514.11;567.47,479.37;544.32,452.00;522.21,415.16;498.00,384.63;489.58,362.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="678.00,395.16;618.00,356.21;595.89,347.79;555.89,324.63;543.26,318.32;508.53,298.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="656.95,332.00;567.47,298.32" z_order="0">
+    </polyline>
+  </image>
+  <image id="5" name="905.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="200.11,549.89;231.68,482.53;254.84,436.21;272.74,397.26;291.68,362.53;300.11,339.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="539.05,555.16;507.47,495.16;476.95,427.79;455.89,394.11;440.11,363.58;421.16,333.05;408.53,312.00;400.11,289.89" z_order="0">
+    </polyline>
+  </image>
+  <image id="6" name="906.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="526.42,552.00;505.37,503.58;488.53,457.26;474.84,425.68;455.89,385.68;443.26,353.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="248.53,545.68;279.05,492.00;304.32,438.32;328.53,397.26;342.21,367.79;358.00,335.16;369.58,315.16" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="785.37,384.63;741.16,373.05;700.11,359.37;660.11,347.79" z_order="0">
+    </polyline>
+  </image>
+  <image id="7" name="907.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="218.00,554.11;250.63,503.58;273.79,472.00;299.05,433.05;314.84,409.89;329.58,389.89;342.21,368.84" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="673.79,550.95;630.63,517.26;581.16,474.11;542.21,440.42;523.26,424.63;491.68,400.42;467.47,382.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="422.21,326.74;416.95,320.42;412.74,318.32;409.58,310.95;407.47,306.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="0.11,456.21;68.53,419.37;155.89,381.47;193.79,363.58;247.47,339.37" z_order="0">
+    </polyline>
+  </image>
+  <image id="8" name="908.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="191.68,556.21;236.95,507.79;280.11,456.21;313.79,419.37;341.16,385.68;370.63,352.00;391.68,325.68;400.11,307.79" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="442.21,550.95;446.42,501.47;444.32,456.21;446.42,410.95;442.21,381.47" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="745.37,552.00;710.63,519.37;648.53,464.63;601.16,423.58;582.21,404.63;548.53,375.16;534.84,363.58;522.21,344.63;503.26,329.89;488.53,318.32;470.63,301.47" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="896.95,516.21;791.68,462.53;728.53,427.79;662.21,394.11;619.05,367.79;576.95,344.63;540.11,328.84;508.53,313.05" z_order="0">
+    </polyline>
+  </image>
+  <image id="9" name="909.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="591.68,548.84;520.11,421.47" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="131.68,546.74;192.74,447.79;216.95,389.89;212.74,370.95;199.05,358.32;195.89,339.37;183.26,324.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="900.00,444.59;730.63,377.26;533.79,305.68" z_order="0">
+    </polyline>
+  </image>
+  <image id="10" name="910.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="250.63,554.11;272.74,487.79;293.79,432.00;311.68,389.89;328.53,353.05;345.37,312.00;348.53,295.16" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="4.32,438.32;150.63,377.26;263.26,323.58;308.53,297.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="896.95,390.95;801.16,372.00;702.21,352.00;621.16,334.11;574.84,324.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="534.84,545.68;486.42,461.47;450.63,415.16;416.95,370.95;401.16,335.16" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="784.32,507.79;699.05,460.42;581.16,393.05;513.79,357.26;480.11,340.42" z_order="0">
+    </polyline>
+  </image>
+  <image id="11" name="911.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="219.05,553.05;273.79,474.11;305.37,427.79;323.26,403.58;340.11,377.26;349.58,360.42;359.05,343.58;381.16,314.11;395.89,289.89;409.58,268.84;419.05,243.58" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="596.95,541.47;547.47,432.00;528.53,395.16;501.16,343.58;480.11,308.84;467.47,282.53;454.84,258.32;446.42,240.42" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="869.58,469.89;800.11,420.42;745.37,386.74;699.05,361.47;654.84,341.47;603.26,315.16;553.79,287.79;514.84,267.79;485.37,248.84" z_order="0">
+    </polyline>
+  </image>
+  <image id="12" name="912.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="433.79,549.89;427.47,486.74;424.32,457.26;420.11,433.05;412.74,413.05;412.74,398.32;408.53,381.47;405.37,368.84;404.32,352.00;402.21,339.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="760.11,554.11;703.26,519.37;596.95,440.42;579.05,426.74;526.42,389.89;518.00,382.53;489.58,361.47;467.47,347.79;456.95,339.37" z_order="0">
+    </polyline>
+  </image>
+  <image id="13" name="913.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="244.32,546.74;278.00,478.32;310.63,412.00;338.00,360.42;351.68,333.05;360.11,310.95;372.74,289.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="428.53,326.74;408.53,307.79;394.84,288.84" z_order="0">
+    </polyline>
+  </image>
+  <image id="14" name="914.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="281.16,540.42;301.16,485.68;315.89,447.79;326.42,413.05;341.16,377.26;351.68,352.00;356.95,332.00" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="600.11,513.05;560.11,465.68;526.42,427.79;502.21,404.63;488.53,390.95;475.89,375.16;456.95,353.05;439.05,337.26;423.26,319.37;409.58,301.47;402.21,290.95" z_order="0">
+    </polyline>
+  </image>
+  <image id="15" name="915.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="890.63,536.21;539.05,410.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="298.00,546.74;301.16,495.16;309.58,430.95;315.89,418.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="6.42,487.79;109.58,465.68;230.63,439.37;318.00,419.37;391.68,396.21;385.37,379.37" z_order="0">
+    </polyline>
+  </image>
+  <image id="16" name="916.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="227.47,554.11;266.42,478.32;306.42,419.37;332.74,381.47;351.68,347.79;362.21,326.74;370.63,318.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="532.74,546.74;492.74,482.53;464.32,439.37;444.32,410.95;433.79,392.00;420.11,377.26;405.37,349.89;395.89,332.00" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="898.00,473.05;790.63,436.21;713.79,412.00;649.58,389.89;547.47,361.47;508.53,352.00;487.47,343.58" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="509.58,375.16;480.11,364.63;464.32,355.16;442.21,342.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="17" name="917.jpg" width="900" height="600">
+    <polyline label="label" source="manual" occluded="0" points="436.95,545.68;429.58,507.79;423.26,474.11;416.95,448.84;409.58,415.16;402.21,387.79;398.00,357.26;391.68,338.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="728.53,556.21;661.16,513.05;598.00,469.89;540.11,426.74;501.16,398.32;467.47,377.26;462.21,368.84" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="103.26,549.89;211.68,467.79;261.16,428.84;299.05,397.26;322.21,375.16;339.05,360.42;352.74,347.79;362.21,339.37" z_order="0">
+    </polyline>
+  </image>
+  <image id="18" name="918.jpg" width="1477" height="800">
+    <polyline label="label" source="manual" occluded="0" points="540.84,740.28;594.18,695.37;655.93,651.86;685.40,625.19;712.07,604.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="925.40,734.67;883.30,691.16;849.61,660.28;811.72,637.82;783.65,623.79;766.81,615.37" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1467.16,724.84;1335.23,699.58;1207.51,671.51;1109.26,657.47;1025.05,643.44;946.46,628.00;872.07,616.77;814.53,604.14" z_order="0">
+    </polyline>
+  </image>
+  <image id="19" name="919.jpg" width="1519" height="820">
+    <polyline label="label" source="manual" occluded="0" points="519.46,741.43;584.20,686.77;644.62,639.29;683.46,607.65" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="923.71,742.87;861.85,693.96;799.99,647.93;762.58,619.15;739.56,601.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1149.56,751.50;1067.56,724.17;974.06,688.21;917.95,666.63;854.65,642.17;801.42,622.03;775.53,607.65" z_order="0">
+    </polyline>
+  </image>
+  <image id="20" name="920.jpg" width="1549" height="823">
+    <polyline label="label" source="manual" occluded="0" points="478.68,749.26;550.88,707.39;599.97,669.85;644.73,642.42;675.05,626.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1079.33,755.04;1002.80,718.94;920.50,681.40;867.08,662.63;815.10,642.42;780.45,630.87;750.13,629.42" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="898.85,753.59;810.77,677.07;764.57,639.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="21" name="921.jpg" width="1464" height="804">
+    <polyline label="label" source="manual" occluded="0" points="886.65,741.09;830.23,693.13;796.38,664.92;759.71,639.53;730.09,609.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1058.74,738.27;965.64,700.18;881.01,662.10;816.13,640.94;769.58,619.78;734.32,605.68" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="12.13,711.47;240.63,664.92;367.58,643.76;469.14,624.01" z_order="0">
+    </polyline>
+  </image>
+  <image id="22" name="922.jpg" width="1338" height="830">
+    <polyline label="label" source="manual" occluded="0" points="1224.71,763.70;1049.98,714.19;924.75,689.44;840.29,660.31;766.03,639.93;712.15,623.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="817.00,765.16;747.10,687.98;700.50,654.49;674.29,634.10;648.08,610.81" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="438.40,750.59;522.85,680.70;557.80,657.40;595.66,635.56;613.14,621.00;629.15,604.98" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="11.75,712.74;278.22,667.60;419.47,642.84;508.29,629.74;566.54,622.45;585.47,612.26" z_order="0">
+    </polyline>
+  </image>
+  <image id="23" name="923.jpg" width="1319" height="809">
+    <polyline label="label" source="manual" occluded="0" points="1295.59,736.53;1103.98,696.79;979.09,676.92;881.15,652.79;810.19,641.43;723.61,635.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="458.20,743.62;514.97,693.95;554.71,658.47;588.78,635.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="26.74,736.53;158.73,708.14;231.11,685.43;326.21,666.98;394.33,649.95;453.94,634.34;476.65,622.98" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="11.12,678.34;174.34,662.72;304.92,641.43;419.88,627.24;463.88,615.89" z_order="0">
+    </polyline>
+  </image>
+  <image id="24" name="924.jpg" width="1318" height="810">
+    <polyline label="label" source="manual" occluded="0" points="287.64,746.64;380.01,705.43;439.69,678.43;492.27,655.69;537.74,638.64;576.11,621.58;593.16,605.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="722.48,745.22;679.85,692.64;655.69,652.85;638.64,624.43;628.69,598.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1265.32,738.11;1086.27,694.06;952.69,665.64;866.01,641.48" z_order="0">
+    </polyline>
+  </image>
+  <image id="25" name="925.jpg" width="1246" height="819">
+    <polyline label="label" source="manual" occluded="0" points="395.50,754.28;442.92,696.81;477.40,663.76;500.39,639.34;511.89,616.35" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="816.50,734.17;622.52,653.70;566.49,629.28;542.06,612.04" z_order="0">
+    </polyline>
+  </image>
+  <image id="26" name="926.jpg" width="1155" height="788">
+    <polyline label="label" source="manual" occluded="0" points="244.56,729.11;295.71,693.17;342.72,654.46;381.42,629.58;421.52,599.16;438.11,583.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="662.06,727.73;606.77,682.11;559.76,647.55;515.52,614.37;492.02,604.69" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1078.18,706.99;953.76,677.96;847.31,653.08;738.10,624.05" z_order="0">
+    </polyline>
+  </image>
+  <image id="27" name="927.jpg" width="1206" height="791">
+    <polyline label="label" source="manual" occluded="0" points="231.99,728.52;277.78,711.86;341.62,664.68;404.07,631.37;442.92,607.78" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="667.73,732.68;608.06,686.88;580.31,657.74;541.45,629.99;510.92,596.68" z_order="0">
+    </polyline>
+  </image>
+  <image id="28" name="928.jpg" width="1340" height="772">
+    <polyline label="label" source="manual" occluded="0" points="211.69,712.95;290.24,669.61;387.76,642.52;469.02,615.43;539.45,588.34" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="636.97,718.37;643.74,660.13;650.51,616.79;657.28,588.34;657.28,569.38" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1064.95,711.59;980.98,675.02;910.55,642.52;848.25,622.20;810.33,600.53;777.82,586.99;757.51,572.09" z_order="0">
+    </polyline>
+  </image>
+  <image id="29" name="929.jpg" width="1850" height="949">
+    <polyline label="label" source="manual" occluded="0" points="125.17,732.36;296.65,692.40;409.87,665.76;499.77,644.12;579.69,620.81;644.62,602.50;691.24,584.18" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="451.49,887.20;538.06,817.27;671.26,715.71;691.24,690.74;744.51,654.11;761.16,639.12;792.80,617.48;816.10,597.50" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1230.67,877.21;1177.39,817.27;1080.83,710.72;1057.52,690.74;1015.89,644.12;1007.57,630.80;984.26,610.82;964.28,587.51" z_order="0">
+    </polyline>
+  </image>
+  <image id="30" name="930.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="842.32,986.19;863.14,910.47;878.29,808.25;882.07,785.53;893.43,740.10;893.43,707.92;895.32,685.20" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="166.52,980.51;338.79,902.89;528.08,815.82;562.16,793.10;643.56,759.03;658.70,749.56;721.17,724.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="5.62,868.82;193.03,819.60;247.92,802.57;291.46,785.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1633.58,997.54;1502.97,921.82;1404.53,870.71;1247.42,793.10;1222.81,770.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1909.96,872.61;1686.59,829.07;1565.44,791.21;1414.00,755.24;1298.53,721.17;1239.85,702.24" z_order="0">
+    </polyline>
+  </image>
+  <image id="31" name="931.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1120.59,969.15;1044.87,885.86;1010.79,836.64;989.97,806.35;959.68,783.64;927.50,747.67;901.00,732.53;891.54,715.49;885.86,694.67" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="397.47,997.54;492.12,921.82;567.84,840.43;624.63,800.67;656.81,770.39;687.09,747.67;709.81,728.74;730.63,713.60" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1824.78,876.39;1540.83,810.14;1364.78,772.28;1237.95,743.88;1143.30,717.38;1077.05,702.24;1005.12,679.52;961.58,668.16" z_order="0">
+    </polyline>
+  </image>
+  <image id="32" name="932.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="433.43,999.44;509.15,952.11;569.73,908.57;618.95,874.50;681.42,829.07;706.02,798.78;768.49,709.81;787.42,687.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1389.39,1003.22;1336.39,940.75;1294.74,899.11;1249.31,853.68;1209.56,815.82;1184.95,791.21;1150.87,755.24;1124.37,730.63;1111.12,700.35;1097.87,685.20;1077.05,654.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="30.23,916.15;121.09,880.18;204.38,861.25;264.96,840.43;333.11,823.39;376.65,806.35;439.11,787.42;505.37,760.92;565.94,736.31;618.95,711.70;643.56,700.35" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1.83,827.17;113.52,802.57;232.78,770.39;306.60,755.24;344.46,749.56" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="747.67,785.53;800.67,755.24;832.85,732.53;865.03,709.81;895.32,690.88;925.61,677.63;938.86,664.38;942.65,653.02;942.65,643.56;942.65,637.88" z_order="0">
+    </polyline>
+  </image>
+  <image id="33" name="933.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="268.75,895.32;355.82,866.93;454.26,827.17;547.01,793.10;618.95,768.49;694.67,745.78;751.46,715.49;804.46,694.67;842.32,677.63;859.36,664.38" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="726.85,950.22;777.96,893.43;810.14,853.68;848.00,798.78;885.86,760.92;931.29,698.45;938.86,685.20;931.29,658.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1446.18,950.22;1376.14,906.68;1300.42,848.00;1249.31,812.03;1215.24,781.74;1183.06,753.35;1147.09,726.85;1120.59,711.70;1090.30,688.99;1063.80,675.74;1025.94,660.59" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1866.42,804.46;1737.70,777.96;1646.84,762.81;1552.19,741.99;1468.90,730.63;1385.60,711.70;1325.03,690.88;1270.13,675.74;1203.88,664.38;1150.87,656.81;1135.73,651.13" z_order="0">
+    </polyline>
+  </image>
+  <image id="34" name="934.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="276.32,899.11;374.75,865.03;450.47,842.32;514.83,823.39;586.77,800.67;643.56,783.64;681.42,768.49;734.42,755.24;793.10,732.53;840.43,717.38;885.86,696.56;944.54,673.84" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1130.05,978.61;1103.55,876.39;1082.73,804.46;1069.48,762.81;1060.01,715.49;1052.44,690.88;1044.87,670.06;1042.97,645.45" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1822.88,899.11;1671.45,848.00;1582.47,819.60;1423.46,762.81" z_order="0">
+    </polyline>
+  </image>
+  <image id="35" name="935.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="24.55,815.82;172.20,808.25;285.78,785.53;456.15,747.67;637.88,702.24;687.09,688.99;766.60,670.06" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="605.70,918.04;687.09,846.10;723.06,817.71;783.64,770.39;808.25,755.24;832.85,732.53;859.36,711.70;885.86,694.67;929.40,656.81;938.86,626.52" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1262.56,914.25;1186.84,848.00;1145.20,810.14;1109.23,770.39;1080.83,738.20;1052.44,719.27;1029.72,692.77;1010.79,670.06;991.86,647.34;982.40,626.52" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1644.94,810.14;1506.76,777.96;1398.86,747.67;1313.67,730.63;1239.85,704.13;1171.70,683.31;1099.76,660.59;1056.23,643.56;1025.94,626.52" z_order="0">
+    </polyline>
+  </image>
+  <image id="36" name="936.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="132.45,876.39;257.39,849.89;370.97,823.39;467.51,800.67;535.66,785.53;609.48,766.60;677.63,753.35;751.46,726.85;812.03,711.70;846.10,696.56;872.61,687.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="649.23,957.79;688.99,910.47;762.81,855.57;810.14,815.82;840.43,793.10;866.93,766.60;889.64,743.88;906.68,732.53;923.72,707.92;936.97,687.09;942.65,673.84" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1321.24,967.26;1268.24,906.68;1217.13,861.25;1154.66,810.14;1135.73,796.89;1105.44,774.17;1092.19,762.81;1073.26,738.20;1052.44,715.49" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1743.38,848.00;1626.01,819.60;1533.26,798.78;1421.57,764.71;1328.82,747.67;1243.63,726.85;1183.06,709.81;1148.98,694.67" z_order="0">
+    </polyline>
+  </image>
+  <image id="37" name="937.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="688.99,982.40;740.10,925.61;774.17,891.54;808.25,842.32;830.96,812.03;846.10,783.64;880.18,743.88;899.11,724.95;921.82,698.45;927.50,677.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1484.04,921.82;1391.28,865.03;1323.14,834.75;1268.24,800.67;1224.70,777.96;1156.55,745.78;1116.80,717.38;1073.26,694.67;1035.40,679.52;1010.79,664.38" z_order="0">
+    </polyline>
+  </image>
+  <image id="38" name="938.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="681.42,931.29;747.67,855.57;810.14,796.89;857.46,736.31;899.11,683.31;921.82,658.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="263.07,844.21;391.79,804.46;499.69,777.96;607.59,738.20;690.88,709.81;709.81,700.35" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1361.00,906.68;1266.35,840.43;1198.20,793.10;1113.02,734.42;1077.05,709.81;1027.83,677.63;1008.90,656.81" z_order="0">
+    </polyline>
+  </image>
+  <image id="39" name="939.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="552.69,972.93;630.30,931.29;702.24,891.54;757.13,855.57;823.39,821.50;865.03,804.46;914.25,772.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1158.45,963.47;1109.23,897.22;1056.23,846.10;1022.15,808.25;989.97,781.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1597.62,918.04;1470.79,883.96;1387.50,866.93;1287.17,832.85;1217.13,812.03;1116.80,791.21" z_order="0">
+    </polyline>
+  </image>
+  <image id="40" name="940.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="630.30,965.36;711.70,921.82;770.39,887.75;838.53,855.57;883.96,830.96;921.82,806.35;961.58,777.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="323.64,982.40;512.94,921.82;641.66,882.07;724.95,861.25;798.78,832.85;859.36,813.92;912.36,794.99" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1205.77,963.47;1179.27,936.97;1128.16,887.75;1092.19,853.68;1065.69,834.75;1048.65,810.14;1029.72,793.10" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1658.19,936.97;1518.11,904.79;1389.39,872.61;1264.45,838.53;1145.20,808.25;1094.09,791.21" z_order="0">
+    </polyline>
+  </image>
+  <image id="41" name="941.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="704.13,1012.69;808.25,950.22;891.54,902.89;938.86,880.18;991.86,855.57" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="490.22,1014.58;575.41,982.40;632.20,959.68;711.70,933.18;764.71,914.25;808.25,899.11;855.57,887.75;897.22,874.50;933.18,859.36" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1241.74,999.44;1211.45,976.72;1158.45,935.07;1120.59,906.68;1103.55,889.64;1075.16,868.82;1052.44,855.57" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1707.41,984.29;1542.72,942.65;1408.32,918.04;1281.49,891.54;1190.63,872.61" z_order="0">
+    </polyline>
+  </image>
+  <image id="42" name="942.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="719.28,984.29;779.85,942.65;868.82,889.64;897.22,868.82;944.54,840.43;984.29,815.82" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1347.75,1005.12;1273.92,948.33;1196.31,902.89;1135.73,855.57;1097.87,827.17;1075.16,812.03" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1709.30,906.68;1537.04,880.18;1379.93,855.57;1247.42,829.07;1152.77,804.46;1090.30,794.99" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="547.01,868.82;755.24,834.75;844.21,817.71;931.29,802.57" z_order="0">
+    </polyline>
+  </image>
+  <image id="43" name="943.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1298.53,988.08;1239.85,946.43;1181.16,906.68;1131.95,870.71;1090.30,834.75" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1722.56,931.29;1540.83,899.11;1396.96,866.93;1239.85,832.85;1126.27,812.03" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="698.45,984.29;825.28,908.57;885.86,882.07;935.07,851.78;974.83,829.07;989.97,817.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="104.06,948.33;378.54,902.89;448.58,893.43;618.95,865.03;774.17,838.53;897.22,817.71" z_order="0">
+    </polyline>
+  </image>
+  <image id="44" name="944.jpg" width="1917" height="1078">
+    <polyline label="label" source="manual" occluded="0" points="657.95,991.75;777.09,927.45;850.85,889.62;917.05,853.69;975.67,827.21" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1263.14,993.64;1187.49,927.45;1143.99,882.06;1113.73,857.47;1083.47,834.78;1064.56,815.86" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1732.17,931.23;1490.09,874.49;1297.18,844.23;1232.88,830.99;1134.54,812.08" z_order="0">
+    </polyline>
+  </image>
+  <image id="45" name="945.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="7.51,1007.01;242.24,955.90;505.37,901.00;639.77,878.29;766.60,857.46;832.85,838.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="683.31,1016.47;776.06,955.90;855.57,916.15;908.57,885.86;969.15,849.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1298.53,1014.58;1228.49,957.79;1177.38,910.47;1118.69,868.82;1075.16,834.75" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1720.66,950.22;1548.40,918.04;1321.24,868.82;1194.41,840.43;1120.59,815.82" z_order="0">
+    </polyline>
+  </image>
+  <image id="46" name="946.jpg" width="1918" height="1075">
+    <polyline label="label" source="manual" occluded="0" points="303.84,1016.36;407.57,988.07;567.88,946.58;699.89,914.52;767.79,895.66;833.80,878.68;901.69,861.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="780.99,1018.25;845.11,971.10;903.58,923.95;945.07,899.43;975.25,876.80;992.22,861.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1397.70,1020.13;1329.81,982.41;1256.25,942.81;1212.88,922.06;1180.82,903.20;1148.75,884.34;1090.29,861.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1735.29,956.01;1614.59,935.26;1473.14,908.86;1359.98,888.11;1271.34,874.91;1188.36,861.71;1129.89,839.08" z_order="0">
+    </polyline>
+  </image>
+  <image id="47" name="947.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1368.57,1012.69;1304.21,967.26;1243.63,929.40;1175.48,885.86;1133.84,859.36;1084.62,823.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="717.38,986.19;802.57,938.86;853.68,901.00;912.36,870.71;952.11,851.78;978.61,834.75;997.54,821.50" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="20.76,925.61;141.92,912.36;297.14,895.32;395.57,878.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="800.67,855.57;895.32,827.17;948.33,813.92" z_order="0">
+    </polyline>
+  </image>
+  <image id="48" name="948.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1357.21,1007.01;1300.42,969.15;1247.42,933.18;1201.99,904.79;1160.34,882.07;1126.27,853.68;1099.76,834.75" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="713.60,1005.12;802.57,952.11;878.29,906.68;901.00,889.64;938.86,865.03;959.68,857.46;976.72,842.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="181.67,1016.47;340.68,980.51;471.29,948.33;567.84,918.04;668.16,889.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1749.06,931.29;1580.58,895.32;1446.18,876.39;1338.28,861.25;1253.10,842.32;1196.31,827.17" z_order="0">
+    </polyline>
+  </image>
+  <image id="49" name="949.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1743.38,948.33;1569.22,908.57;1482.15,887.75;1400.75,878.29;1292.85,861.25;1247.42,848.00;1166.02,827.17" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1370.46,1005.12;1304.21,963.47;1243.63,925.61;1198.20,895.32;1152.77,866.93;1103.55,838.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="796.89,963.47;904.79,893.43;969.15,851.78;991.86,830.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="615.16,908.57;707.92,885.86;813.92,855.57;893.43,827.17" z_order="0">
+    </polyline>
+  </image>
+  <image id="50" name="950.jpg" width="1910" height="1075">
+    <polyline label="label" source="manual" occluded="0" points="1729.44,942.81;1572.91,910.75;1452.21,882.46;1329.62,861.71;1240.98,844.74;1156.11,823.99;1105.19,808.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1291.90,1014.47;1235.32,969.21;1199.49,935.26;1165.54,906.97;1135.36,884.34;1105.19,854.17;1078.78,837.19;1065.58,822.11" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="650.67,1001.27;777.03,937.15;860.01,899.43;901.50,873.03;959.97,846.62" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="107.51,1018.25;399.84,950.35;522.43,922.06" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="782.69,861.71;944.88,820.22" z_order="0">
+    </polyline>
+  </image>
+  <image id="51" name="951.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1290.96,999.44;1245.52,959.68;1200.09,925.61;1167.91,895.32;1147.09,872.61;1116.80,846.10;1078.94,813.92" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="670.06,971.04;740.10,936.97;895.32,857.46;942.65,829.07;972.93,808.25" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="140.02,978.61;276.32,954.00;441.01,919.93;529.98,895.32;596.23,872.61" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1487.83,989.97;1406.43,948.33;1309.89,908.57;1215.24,874.50;1131.95,832.85" z_order="0">
+    </polyline>
+  </image>
+  <image id="52" name="952.jpg" width="1772" height="1012">
+    <polyline label="label" source="manual" occluded="0" points="1549.37,883.22;1318.56,831.74;1174.75,798.00;1080.65,774.92;1007.86,755.39;951.05,746.51" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1208.48,932.94;1054.02,831.74;929.74,757.17" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="599.51,909.85;764.62,805.10;793.03,783.80;819.66,769.60;837.42,750.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="2.96,854.82;231.99,829.96;379.35,803.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="53" name="953.jpg" width="1917" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="1271.08,1027.83;1240.79,1001.33;1204.82,971.04;1170.75,946.43;1138.57,918.04;1104.50,897.22;1076.10,859.36;1070.42,851.78" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="710.76,1022.15;826.23,942.65;883.02,906.68;941.70,870.71;964.42,857.46;981.45,840.43" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1549.35,1018.37;1409.27,982.40;1337.33,959.68;1254.04,931.29;1204.82,910.47;1168.86,889.64;1140.46,880.18;1100.71,851.78" z_order="0">
+    </polyline>
+  </image>
+  <image id="54" name="954.jpg" width="1917" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="451.42,1018.37;570.68,972.93;684.25,935.07;780.80,901.00;852.73,878.29;900.05,863.14;973.88,829.07" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1401.70,1003.22;1307.05,959.68;1216.18,919.93;1136.68,889.64;1066.64,861.25;1066.64,806.35" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="313.23,927.50;496.85,901.00;735.37,857.46;780.80,848.00;858.41,830.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="298.09,878.29;576.35,849.89;718.33,832.85;799.73,825.28" z_order="0">
+    </polyline>
+  </image>
+  <image id="55" name="955.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="777.96,974.83;863.14,933.18;959.68,887.75;1033.51,851.78;1111.12,821.50;1184.95,802.57;1230.38,791.21" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1391.28,972.93;1342.07,923.72;1281.49,861.25;1264.45,844.21;1254.99,825.28;1254.99,802.57;1264.45,791.21" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1906.17,936.97;1749.06,897.22;1601.40,861.25;1472.68,834.75;1368.57,806.35" z_order="0">
+    </polyline>
+  </image>
+  <image id="56" name="956.jpg" width="1807" height="1027">
+    <polyline label="label" source="manual" occluded="0" points="680.22,933.18;779.31,884.54;829.94,861.11;867.78,843.10;932.64,814.27;1020.75,781.84;1091.02,758.41;1150.48,745.80;1202.73,734.99;1242.37,724.18" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1305.43,911.56;1263.99,839.49;1233.36,801.66;1222.55,767.42;1238.76,744.00;1260.38,731.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1784.69,848.50;1691.00,825.08;1595.51,803.46;1530.65,789.04;1428.13,767.42;1368.67,747.60" z_order="0">
+    </polyline>
+  </image>
+  <image id="57" name="957.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="437.22,969.15;600.02,925.61;721.17,889.64;823.39,859.36;936.97,832.85;1029.72,808.25;1090.30,794.99;1131.95,787.42" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1037.30,940.75;1126.27,872.61;1175.48,829.07;1209.56,813.92;1249.31,794.99;1273.92,785.53;1292.85,774.17" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1688.48,971.04;1588.15,919.93;1533.26,882.07;1495.40,859.36;1472.68,844.21;1446.18,821.50;1429.14,798.78;1427.25,781.74;1431.04,766.60;1444.29,759.03;1451.86,755.24" z_order="0">
+    </polyline>
+  </image>
+  <image id="58" name="958.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="408.83,978.61;548.91,935.07;671.95,897.22;755.24,868.82;830.96,851.78;906.68,825.28;969.15,806.35;1020.26,787.42;1088.41,764.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="972.93,912.36;1014.58,874.50;1084.62,823.39;1126.27,806.35;1156.55,783.64;1184.95,762.81" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1618.44,874.50;1557.87,848.00;1482.15,813.92;1414.00,785.53;1345.85,753.35;1309.89,728.74;1300.42,715.49" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1885.35,851.78;1667.66,804.46;1502.97,764.71;1417.79,747.67;1332.60,723.06" z_order="0">
+    </polyline>
+  </image>
+  <image id="59" name="959.jpg" width="1906" height="1072">
+    <polyline label="label" source="manual" occluded="0" points="19.42,976.88;132.26,956.19;252.62,924.22;341.02,899.77;374.87,879.08;365.47,867.80;350.42,858.40;342.90,854.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="267.67,1018.26;371.11,978.76;446.34,944.91;502.76,924.22;532.85,909.18;559.18,892.25;564.82,882.85;562.94,869.68;549.77,858.40;538.49,848.99" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="683.30,988.17;719.04,944.91;743.49,911.06;751.01,884.73;743.49,871.56;735.96,864.04;728.44,854.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1277.61,965.60;1179.81,924.22;1089.54,884.73;1018.07,865.92;935.32,847.11;863.85,835.83;803.67,830.19" z_order="0">
+    </polyline>
+  </image>
+  <image id="60" name="960.jpg" width="1907" height="1075">
+    <polyline label="label" source="manual" occluded="0" points="40.94,986.18;195.59,956.01;346.46,923.95;487.91,899.43;574.67,878.68;601.07,865.48" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="729.32,956.01;817.96,890.00;868.88,863.60;895.28,840.96;910.37,823.99" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1198.92,978.64;1155.54,954.12;1093.31,910.75;1046.16,884.34;1023.53,865.48;1008.44,850.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1621.38,978.64;1521.42,956.01;1430.89,931.49;1359.23,910.75;1336.60,901.32" z_order="0">
+    </polyline>
+  </image>
+  <image id="61" name="961.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="219.53,1029.72;422.08,972.93;590.55,923.72;673.84,899.11;791.21,868.82;872.61,844.21;938.86,823.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="781.74,986.19;870.71,919.93;914.25,887.75;944.54,865.03;961.58,853.68;969.15,838.53" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1211.45,982.40;1166.02,936.97;1128.16,901.00;1095.98,876.39;1071.37,853.68;1058.12,838.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="62" name="962.jpg" width="1879" height="1065">
+    <polyline label="label" source="manual" occluded="0" points="246.54,977.10;351.18,947.20;465.15,917.31;642.65,874.33;760.36,836.97;840.70,812.68" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="751.02,954.68;805.20,913.57;855.65,876.20;898.62,844.44;926.65,825.76;937.86,810.81" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1195.70,977.10;1135.91,917.31;1106.02,887.41;1085.47,868.73;1051.83,835.10;1038.76,829.49;1021.94,812.68;1012.60,803.33" z_order="0">
+    </polyline>
+  </image>
+  <image id="63" name="963.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="278.21,989.97;503.47,929.40;685.20,880.18;827.17,842.32;897.22,817.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="794.99,972.93;870.71,910.47;916.15,876.39;944.54,855.57;976.72,825.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1251.20,978.61;1177.38,912.36;1128.16,876.39;1097.87,842.32;1073.26,823.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1699.84,927.50;1555.97,897.22;1415.89,868.82;1272.03,846.10;1173.59,823.39" z_order="0">
+    </polyline>
+  </image>
+  <image id="64" name="964.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="158.95,1005.12;325.53,961.58;450.47,929.40;571.62,899.11;658.70,876.39;736.31,855.57;812.03,830.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="702.24,974.83;817.71,906.68;874.50,868.82;921.82,842.32;972.93,808.25" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1326.92,984.29;1213.34,908.57;1143.30,866.93;1103.55,838.53;1067.58,815.82" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1694.16,916.15;1444.29,868.82;1317.46,838.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="65" name="965.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="200.60,967.26;435.33,923.72;628.41,876.39;764.71,840.43" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="745.78,955.90;916.15,853.68;980.51,825.28" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1268.24,980.51;1188.73,902.89;1156.55,874.50;1122.48,849.89;1092.19,817.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1830.46,876.39;1605.19,844.21;1398.86,827.17;1247.42,813.92" z_order="0">
+    </polyline>
+  </image>
+  <image id="66" name="966.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="412.61,954.00;579.19,908.57;713.60,876.39;840.43,832.85" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="745.78,978.61;863.14,910.47;957.79,855.57;1016.47,815.82" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1234.17,942.65;1173.59,891.54;1130.05,866.93;1086.51,830.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1790.70,897.21;1561.65,859.36;1423.46,846.10;1302.31,830.96;1196.31,823.39;1135.73,810.14" z_order="0">
+    </polyline>
+  </image>
+  <image id="67" name="967.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="96.48,1020.26;278.21,967.26;461.83,936.97;639.77,901.00;743.88,876.39;802.57,857.46" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1273.92,991.86;1184.95,914.25;1135.73,876.39;1080.83,830.96" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1771.77,910.47;1559.76,880.18;1417.79,863.14;1319.35,846.10" z_order="0">
+    </polyline>
+  </image>
+  <image id="68" name="968.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="189.24,978.61;378.54,940.75;548.91,897.22;694.67,866.93;789.32,842.32;880.18,817.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="810.14,965.36;851.78,919.93;912.36,876.39;961.58,842.32;999.44,810.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1834.24,887.75;1677.12,874.50;1554.08,865.03;1393.18,838.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="69" name="969.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="7.51,965.36;247.92,929.40;418.29,908.57;564.05,897.22;779.85,863.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="261.17,1024.04;516.73,961.58;726.85,912.36;848.00,876.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="783.64,1008.90;902.89,925.61;948.33,891.54" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1729.87,933.49;1587.50,913.78;1467.04,894.07;1407.90,883.12" z_order="0">
+    </polyline>
+  </image>
+  <image id="70" name="970.jpg" width="1919" height="1079">
+    <polyline label="label" source="manual" occluded="0" points="161.65,997.01;431.05,931.30;625.99,883.12;733.31,856.84;766.16,845.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="785.87,931.30;869.10,872.17;904.15,845.89;921.67,828.36" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1276.49,992.63;1215.16,944.45;1162.59,900.64;1142.88,883.12" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1659.78,988.25;1504.27,933.49;1392.57,900.64;1278.68,856.84;1206.40,830.55;1153.83,810.84" z_order="0">
+    </polyline>
+  </image>
+  <image id="71" name="971.jpg" width="1837" height="678">
+    <polyline label="label" source="manual" occluded="0" points="93.91,671.90;292.14,616.83;385.75,594.81;449.99,574.62;501.38,561.77;578.47,539.74;653.73,521.39;706.95,506.71;752.84,484.68" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="668.41,616.83;762.02,554.43;782.21,521.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1035.50,629.68;1004.30,598.48;967.59,567.28;943.73,541.58;912.53,512.21;890.50,497.53" z_order="0">
+    </polyline>
+  </image>
+  <image id="72" name="972.jpg" width="1524" height="692">
+    <polyline label="label" source="manual" occluded="0" points="538.60,573.47;628.44,549.11;655.85,524.75;709.15,518.66" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="969.54,645.04;937.56,590.22;916.24,546.07;861.42,533.88;814.22,524.75" z_order="0">
+    </polyline>
+  </image>
+  <image id="73" name="973.jpg" width="1340" height="702">
+    <polyline label="label" source="manual" occluded="0" points="415.30,648.00;522.17,589.57;597.69,546.82;637.59,524.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1076.49,660.82;968.19,620.92;896.94,586.72;845.64,565.35;801.47,543.97;767.27,529.72;728.79,512.62" z_order="0">
+    </polyline>
+  </image>
+  <image id="74" name="974.jpg" width="1514" height="691">
+    <polyline label="label" source="manual" occluded="0" points="480.57,634.26;584.95,578.29;649.99,546.52;699.91,520.81;728.66,499.63" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="849.67,620.65;819.42,570.73;769.50,504.17" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1146.17,638.80;1061.46,604.01;940.44,554.09;848.16,517.78;823.96,504.17" z_order="0">
+    </polyline>
+  </image>
+  <image id="75" name="975.jpg" width="1518" height="713">
+    <polyline label="label" source="manual" occluded="0" points="211.82,667.29;342.25,623.30;371.07,605.10;498.48,559.60;542.46,547.47;591.00,532.30" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="923.16,668.81;750.26,573.25" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="751.77,656.67;718.40,596.00" z_order="0">
+    </polyline>
+  </image>
+  <image id="76" name="976.jpg" width="1270" height="690">
+    <polyline label="label" source="manual" occluded="0" points="70.89,622.87;223.56,583.65;339.81,555.64;411.24,538.83;458.86,522.03" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="493.87,611.67;510.68,593.46;528.89,573.85;545.70,552.84;558.30,541.64" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="814.62,634.08;771.20,604.66;731.98,573.85;699.76,555.64;680.16,540.23;650.74,519.23" z_order="0">
+    </polyline>
+  </image>
+  <image id="77" name="977.jpg" width="1488" height="705">
+    <polyline label="label" source="manual" occluded="0" points="11.48,654.21;189.89,614.07;329.65,576.90;424.80,557.57" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="560.10,634.88;595.78,597.71;629.97,563.52;661.20,518.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="873.80,639.34;814.33,591.76;769.73,557.57;726.61,520.40;711.75,508.51" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1177.10,661.64;1043.29,611.09;989.77,576.90;902.05,557.57;829.20,535.27" z_order="0">
+    </polyline>
+  </image>
+  <image id="78" name="978.jpg" width="1594" height="683">
+    <polyline label="label" source="manual" occluded="0" points="15.41,640.85;176.27,604.22;345.09,564.40;459.76,538.92;556.91,519.80;665.21,497.51" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1123.90,632.88;1028.34,586.70;956.67,548.47;902.52,522.99;862.71,499.10" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="569.65,618.55;701.85,550.06;765.55,513.43" z_order="0">
+    </polyline>
+  </image>
+  <image id="79" name="979.jpg" width="1626" height="731">
+    <polyline label="label" source="manual" occluded="0" points="639.56,661.01;680.18,600.90;719.17,557.03;727.29,535.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="951.49,687.00;896.26,644.76;847.52,600.90;813.40,574.90;782.53,548.91" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="17.33,722.75;152.17,683.75;251.27,656.13;693.18,545.66" z_order="0">
+    </polyline>
+  </image>
+  <image id="80" name="980.jpg" width="1655" height="701">
+    <polyline label="label" source="manual" occluded="0" points="205.32,649.64;344.22,583.50;541.00,542.16;615.41,527.27;651.79,525.62;655.10,514.05" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="964.33,671.14;876.68,606.65;830.38,563.65;805.58,540.50;782.43,520.66" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="623.68,638.07;678.25,573.58;709.67,532.24" z_order="0">
+    </polyline>
+  </image>
+  <image id="81" name="981.jpg" width="1488" height="697">
+    <polyline label="label" source="manual" occluded="0" points="311.81,575.86;401.01,549.09;464.94,535.71;500.63,526.79;521.44,514.90" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="836.63,638.30;781.62,602.62;751.89,577.34;732.56,558.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="741.48,520.85;707.29,513.41;677.55,511.93" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="603.21,608.56;609.16,571.40;613.62,547.61;615.11,519.36" z_order="0">
+    </polyline>
+  </image>
+  <image id="82" name="982.jpg" width="1388" height="706">
+    <polyline label="label" source="manual" occluded="0" points="39.53,640.14;157.04,612.91;247.33,589.98;334.75,567.05;403.54,551.29;470.89,532.66" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="466.59,638.71;506.72,604.31;548.28,572.78;598.44,532.66;627.10,506.86" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="844.93,654.47;777.57,591.42;721.68,554.15;684.42,524.06;665.79,506.86" z_order="0">
+    </polyline>
+  </image>
+  <image id="83" name="983.jpg" width="1494" height="706">
+    <polyline label="label" source="manual" occluded="0" points="338.41,659.65;439.92,592.48;498.14,547.70;526.50,522.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="880.28,649.20;795.20,604.42;738.47,571.58;705.63,549.19;666.82,525.31;654.88,513.36" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1478.88,647.71;1196.75,595.47;1013.14,558.15;911.63,538.74;828.04,513.36" z_order="0">
+    </polyline>
+  </image>
+  <image id="84" name="984.jpg" width="1230" height="706">
+    <polyline label="label" source="manual" occluded="0" points="760.09,635.84;671.24,555.59;619.65,516.89" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="421.88,641.57;484.94,605.75;525.06,567.05;549.43,545.56;583.82,519.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="82.24,628.68;275.70,581.38;400.38,552.72;489.24,528.36" z_order="0">
+    </polyline>
+  </image>
+  <image id="85" name="985.jpg" width="1586" height="714">
+    <polyline label="label" source="manual" occluded="0" points="1416.22,699.95;1230.81,652.41;1088.19,611.21;977.27,576.34;915.46,549.40" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="550.99,647.65;623.88,590.61" z_order="0">
+    </polyline>
+  </image>
+  <image id="86" name="986.jpg" width="1547" height="704">
+    <polyline label="label" source="manual" occluded="0" points="1369.77,691.20;1184.28,634.01;1023.53,589.18;930.79,556.72;862.77,538.18" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="513.44,646.38;569.09,598.46" z_order="0">
+    </polyline>
+  </image>
+  <image id="87" name="987.jpg" width="1489" height="685">
+    <polyline label="label" source="manual" occluded="0" points="556.65,638.48;617.65,599.80;645.92,564.09;663.77,550.70" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="939.00,645.92;872.05,595.33;836.35,567.07;819.98,546.24" z_order="0">
+    </polyline>
+  </image>
+  <image id="88" name="988.jpg" width="1496" height="715">
+    <polyline label="label" source="manual" occluded="0" points="554.07,648.83;615.35,598.01;649.73,568.12;673.65,548.69;724.47,527.76" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="939.71,659.30;861.98,596.52;823.12,568.12;809.67,547.19" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1151.97,620.43;1068.26,598.01;986.05,577.09;933.73,560.64;899.35,539.72" z_order="0">
+    </polyline>
+  </image>
+  <image id="89" name="989.jpg" width="1659" height="711">
+    <polyline label="label" source="manual" occluded="0" points="570.46,648.70;621.85,610.57;655.00,575.76;686.49,554.22;708.04,540.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1531.88,700.08;1359.48,656.99;1250.08,630.47;1134.05,603.94;1052.83,579.08;966.63,559.19;931.82,542.61" z_order="0">
+    </polyline>
+  </image>
+  <image id="90" name="990.jpg" width="1537" height="706">
+    <polyline label="label" source="manual" occluded="0" points="493.32,636.14;551.68,593.14;613.11,537.86" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1485.39,692.96;1313.39,645.36;1124.50,590.07;1013.93,562.43;920.25,545.54;845.00,531.71" z_order="0">
+    </polyline>
+  </image>
+  <image id="91" name="991.jpg" width="1627" height="705">
+    <polyline label="label" source="manual" occluded="0" points="590.34,633.58;661.87,576.69;697.64,539.30;710.64,526.29" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="983.75,646.59;915.47,607.57;863.45,568.56;816.31,534.42" z_order="0">
+    </polyline>
+  </image>
+  <image id="92" name="992.jpg" width="1792" height="690">
+    <polyline label="label" source="manual" occluded="0" points="701.40,576.78;771.23,540.97;792.72,508.74" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="987.88,623.34;934.17,574.99;896.57,537.39" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1268.99,601.85;1163.35,574.99;1106.05,560.67" z_order="0">
+    </polyline>
+  </image>
+  <image id="93" name="993.jpg" width="1518" height="693">
+    <polyline label="label" source="manual" occluded="0" points="496.96,649.70;545.50,616.33;586.45,592.06;630.43,566.28;666.84,543.52;692.62,531.39;712.34,514.71" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1373.63,680.03;1308.41,664.86;1212.86,629.98;1115.79,604.19;1030.85,579.93;965.63,561.73;891.31,545.04;836.71,525.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="968.66,658.80;870.08,587.51;826.09,555.66" z_order="0">
+    </polyline>
+  </image>
+  <image id="94" name="994.jpg" width="1756" height="700">
+    <polyline label="label" source="manual" occluded="0" points="157.46,649.08;334.49,608.72;497.84,568.37;622.23,536.79;715.22,515.73" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="625.74,633.29;720.66,575.39;780.32,519.24" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="976.65,638.55;904.71,575.39;871.55,547.32;848.74,524.51" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1745.13,657.85;1334.75,585.91;1141.57,556.09;992.44,528.02" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1346.85,668.38;1101.40,585.91;994.37,552.58" z_order="0">
+    </polyline>
+  </image>
+  <image id="95" name="995.jpg" width="1774" height="698">
+    <polyline label="label" source="manual" occluded="0" points="59.75,656.38;226.37,622.71;392.99,583.71;515.29,550.03;611.01,526.99" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1513.22,617.39;1332.42,581.94;1206.57,557.12;1066.54,530.53;992.10,514.58" z_order="0">
+    </polyline>
+  </image>
+  <image id="96" name="996.jpg" width="1609" height="695">
+    <polyline label="label" source="manual" occluded="0" points="67.77,617.43;337.86,557.95;495.41,519.36" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1551.64,643.15;1339.43,606.18;1183.48,577.24;1058.09,553.12;939.12,532.22;836.23,511.32" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1185.09,641.54;1082.20,609.39;926.26,562.77;860.35,541.87;778.35,516.15" z_order="0">
+    </polyline>
+  </image>
+  <image id="97" name="997.jpg" width="1861" height="694">
+    <polyline label="label" source="manual" occluded="0" points="721.89,635.98;755.36,613.67;814.86,561.60;818.58,524.41" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1125.39,643.42;1047.29,583.92;987.79,552.31;937.58,526.27" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1597.68,673.17;1482.40,643.42;1257.41,583.92;1235.09,580.20;1127.25,546.73" z_order="0">
+    </polyline>
+  </image>
+  <image id="98" name="998.jpg" width="1919" height="692">
+    <polyline label="label" source="manual" occluded="0" points="1518.87,657.38;1300.29,586.44;1189.08,551.93;1081.70,523.17;1045.27,507.83" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1133.47,636.29;1035.69,544.26" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="725.07,632.46;803.68,582.61;876.54,536.59" z_order="0">
+    </polyline>
+  </image>
+  <image id="99" name="999.jpg" width="1763" height="681">
+    <polyline label="label" source="manual" occluded="0" points="1439.43,652.20;1266.80,599.36;1092.41,548.27;976.15,516.57;902.16,490.14" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="701.35,620.50;755.96,565.89;812.33,523.61;835.23,498.95" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="461.78,579.98;627.37,544.75;690.78,520.09" z_order="0">
+    </polyline>
+    <polyline label="label" source="manual" occluded="0" points="1007.86,606.40;953.25,550.04;902.16,507.76" z_order="0">
+    </polyline>
+  </image>
+</annotations>

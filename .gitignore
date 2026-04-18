@@ -1,17 +1,45 @@
-**/__pycache__
-
+# Python
+__pycache__/
 *.pyc
+
+# Model weights
 *.pth
-
-*vscode
-
-**/build
-
-evaluate 
-tmp
-
-*.avi
-
-model2.py
-
 *.pt
+*.onnx
+
+# Build
+build/
+**/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Notebook
+.ipynb_checkpoints/
+
+# Temp
+tmp/
+temp/
+
+# Logs
+*.log
+
+# Outputs
+*.avi
+*.mp4
+
+# Training folders
+exp/
+evaluation/
+
+# Virtual env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Custom
+model2.py

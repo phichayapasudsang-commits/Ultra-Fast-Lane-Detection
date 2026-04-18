@@ -121,12 +121,17 @@ if __name__ == "__main__":
 
     if cfg.finetune is not None:
         dist_print('finetune from ', cfg.finetune)
-        state_all = torch.load(cfg.finetune)['model']
-        state_clip = {}  # only use backbone parameters
-        for k,v in state_all.items():
-            if 'model' in k:
-                state_clip[k] = v
-        net.load_state_dict(state_clip, strict=False)
+        state_all = torch.load(cfg.finetune, map_location='cpu')['model']
+        new_state_dict = {}
+        for k, v in state_all.items():
+            clean_k = k[7:] if k.startswith('module.') else k
+            new_state_dict[clean_k] = v         
+        if hasattr(net, 'module'):
+            load_info = net.module.load_state_dict(new_state_dict, strict=False)
+        else:
+            load_info = net.load_state_dict(new_state_dict, strict=False)  
+        print(f"✅ โหลด Weights สำเร็จ! (Missing keys: {len(load_info.missing_keys)})")
+    
     if cfg.resume is not None:
         dist_print('==> Resume model from ' + cfg.resume)
         resume_dict = torch.load(cfg.resume, map_location='cpu')
@@ -136,8 +141,6 @@ if __name__ == "__main__":
         resume_epoch = int(os.path.split(cfg.resume)[1][2:5]) + 1
     else:
         resume_epoch = 0
-
-
 
     scheduler = get_scheduler(optimizer, cfg, len(train_loader))
     dist_print(len(train_loader))
@@ -149,6 +152,6 @@ if __name__ == "__main__":
     for epoch in range(resume_epoch, cfg.epoch):
 
         train(net, train_loader, loss_dict, optimizer, scheduler,logger, epoch, metric_dict, cfg.use_aux)
-        
-        save_model(net, optimizer, epoch ,work_dir, distributed)
+        if (epoch + 1) % 5 == 0 or (epoch + 1) == cfg.epoch:
+          save_model(net, optimizer, epoch ,work_dir, distributed)
     logger.close()

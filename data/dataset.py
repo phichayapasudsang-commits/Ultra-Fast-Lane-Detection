@@ -8,7 +8,10 @@ from data.mytransforms import find_start_pos
 
 
 def loader_func(path):
-    return Image.open(path)
+    if path.endswith('.lines.txt'):
+        return path
+    else:
+        return Image.open(path)
 
 
 class LaneTestDataset(torch.utils.data.Dataset):
